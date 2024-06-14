@@ -1,16 +1,17 @@
-## Hi there 👋
+![carrerogabriel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=juanncarloss&theme=highcontrast&hide_border=false)
+![carrerogabriel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carrerogabriel&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
+![Gabriel Zomer github stats](https://github-readme-stats.vercel.app/api?username=juanncarloss&show_icons=true&hide_border=false&theme=highcontrast)&nbsp;&nbsp;
+<h2>I love development, but I'll love it even more if it's: </h2>
 
-<!--
-**Carrerogabriel/Carrerogabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>Profile Visitor Count</h1>
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/carrerogabriel/count.svg"
+    alt="Ilustração do número de visitantes no perfil"
+  />
+</p>
